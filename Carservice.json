@@ -1,0 +1,30 @@
+{
+"first_name": "ali", "last_name": "haider", "title": "abs", "gender": "email_address":"sa@gmail.com", "phone_number":"0351563", "address_line_1":"lahore",
+"address_line_2":"wapda town",
+"address_line_3":"Block A",
+"city":"lahore",
+"state":"punjab",
+"other_details":"jdsjsaav",
+
+"car": [
+{"licence_number":"00273635",
+"current_mileage": "abc",
+"engine_size":"1500cc",
+"other":"cdcddc",
+"model_name":"BMW",
+"daily_hire_rate":"abddd",
+"model_code":"1234",
+"manufacturer_code": "1234",
+"manufacturer_name":"texla",
+"manufacturer_details":"wdgdshcds",
+"booking":[
+{"booking_id":"649",
+"date_time_of_service":"12-02-2010",
+"payment_recieved":"y or no",
+"mechanic_id":"345",
+"mechanic_name":"kamran",
+"other_details":"kehfeaf"
+}
+]
+}]
+}
